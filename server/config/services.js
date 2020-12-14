@@ -63,7 +63,7 @@ module.exports = {
   // },
   service4: { // affordability
     api: '/listings/:id/',
-    url: 'http://localhost:8020/:id',
+    url: 'http://localhost:3002',
     bundle: 'bundle.js',
   },
 };
