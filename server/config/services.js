@@ -62,8 +62,8 @@ module.exports = {
   //   bundle: 'https://affordabilitycomponent.s3-us-west-1.amazonaws.com/bundle.js',
   // },
   service4: { // affordability
-    api: '/listings/:id/',
-    url: 'http://localhost:3002',
+    api: '/listings/:id/price',
+    url: 'http://54.176.144.204:3002',
     bundle: 'bundle.js',
   },
 };
